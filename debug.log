@@ -1,0 +1,913 @@
+2025-04-18 09:59:53 - Database connection successful
+2025-04-18 09:59:53 - User ID: 1
+2025-04-18 09:59:57 - Database connection successful
+2025-04-18 09:59:57 - User ID: 1
+2025-04-18 09:59:57 - Form submitted: {"studentName":"Priyanshu","email":"123@gmail.com","instrument":"Piano","guardianContact":"6390989509","enroll":""}
+2025-04-18 09:59:57 - Enrollment inserted successfully for user_id: 1
+2025-04-18 10:00:27 - Database connection successful
+2025-04-18 10:00:27 - User ID: 1
+2025-04-18 10:03:11 - Database connection successful
+2025-04-18 10:03:11 - User ID: 1
+2025-04-18 10:03:18 - Database connection successful
+2025-04-18 10:03:18 - User ID: 1
+2025-04-18 10:04:39 - Database connection successful
+2025-04-18 10:04:39 - User ID: 1
+2025-04-18 10:09:21 - Database connection successful
+2025-04-18 10:09:21 - User ID: 1
+2025-04-18 10:09:23 - Database connection successful
+2025-04-18 10:09:23 - User ID: 1
+2025-04-18 10:09:28 - Database connection successful (assignment.php)
+2025-04-18 10:09:28 - User ID (assignment.php): 1
+2025-04-18 10:09:50 - Database connection successful (assignment.php)
+2025-04-18 10:09:50 - User ID (assignment.php): 1
+2025-04-18 10:09:50 - Form submitted (assignment.php): {"teacher":"Jane Smith","class":"B12","assign":""}
+2025-04-18 10:09:50 - Assignment inserted successfully for user_id: 1 (assignment.php)
+2025-04-18 10:10:11 - Database connection successful
+2025-04-18 10:10:11 - User ID: 1
+2025-04-18 10:18:13 - Database connection successful
+2025-04-18 10:18:13 - User ID: 1
+2025-04-18 10:18:13 - Form submitted: {"studentName":"Priyanshu","email":"123@gmail.com","instrument":"Piano","guardianContact":"6390989509","enroll":""}
+2025-04-18 10:18:13 - Enrollment inserted successfully for user_id: 1
+2025-04-18 10:21:16 - Database connection successful (enrollment.php)
+2025-04-18 10:21:16 - User ID (enrollment.php): 1
+2025-04-18 10:21:16 - Form submitted (enrollment.php): {"studentName":"Priyanshu","email":"123@gmail.com","instrument":"Piano","guardianContact":"6390989509","enroll":""}
+2025-04-18 10:21:16 - Enrollment inserted successfully for user_id: 1 (enrollment.php)
+2025-04-18 10:21:24 - Database connection successful (enrollment.php)
+2025-04-18 10:21:24 - User ID (enrollment.php): 1
+2025-04-18 10:21:24 - Form submitted (enrollment.php): {"studentName":"Priyanshu","email":"123@gmail.com","instrument":"Piano","guardianContact":"6390989509","enroll":""}
+2025-04-18 10:21:24 - Validation failed: User ID 1 already has a student enrolled (enrollment.php)
+2025-04-18 10:21:39 - Database connection successful (enrollment.php)
+2025-04-18 10:21:39 - User ID (enrollment.php): 1
+2025-04-18 10:21:39 - Form submitted (enrollment.php): {"studentName":"Priyanshu","email":"123@gmail.com","instrument":"Piano","guardianContact":"6390989509","enroll":""}
+2025-04-18 10:21:39 - Validation failed: User ID 1 already has a student enrolled (enrollment.php)
+2025-04-18 10:22:01 - Database connection successful (enrollment.php)
+2025-04-18 10:22:01 - User ID (enrollment.php): 1
+2025-04-18 10:22:01 - Form submitted (enrollment.php): {"studentName":"Priyanshu","email":"priyanshu233@lpu.in","instrument":"Piano","guardianContact":"6390987898","enroll":""}
+2025-04-18 10:22:01 - Validation failed: User ID 1 already has a student enrolled (enrollment.php)
+2025-04-18 10:22:23 - Database connection successful (enrollment.php)
+2025-04-18 10:22:23 - User ID (enrollment.php): 1
+2025-04-18 10:22:23 - Form submitted (enrollment.php): {"studentName":"Priyanshu1","email":"123@gmail.com","instrument":"Piano","guardianContact":"6390989509","enroll":""}
+2025-04-18 10:22:23 - Validation failed: User ID 1 already has a student enrolled (enrollment.php)
+2025-04-18 10:34:49 - Database connection successful (enrollment.php)
+2025-04-18 10:34:49 - User ID (enrollment.php): 1
+2025-04-18 10:34:49 - Form submitted (enrollment.php): {"studentName":"Priyanshu","email":"123@gmail.com","instrument":"Piano","guardianContact":"6390989509","enroll":""}
+2025-04-18 10:34:49 - Validation failed: User ID 1 already has a student enrolled (enrollment.php)
+2025-04-18 10:37:21 - Database connection successful (enrollment.php)
+2025-04-18 10:37:21 - User ID (enrollment.php): 2
+2025-04-18 10:37:37 - Database connection successful (assignment.php)
+2025-04-18 10:37:37 - User ID (assignment.php): 2
+2025-04-18 10:37:43 - Database connection successful (assignment.php)
+2025-04-18 10:37:43 - User ID (assignment.php): 2
+2025-04-18 10:37:43 - Form submitted (assignment.php): {"teacher":"Jane Smith","class":"B12","assign":""}
+2025-04-18 10:37:44 - Assignment inserted successfully for user_id: 2 (assignment.php)
+2025-04-18 10:45:34 - Database connection successful (practice.php)
+2025-04-18 10:45:34 - User ID (practice.php): 2
+2025-04-18 10:45:40 - Database connection successful (practice.php)
+2025-04-18 10:45:40 - User ID (practice.php): 2
+2025-04-18 10:45:40 - Form submitted (practice.php): {"studentName":"Priyanshu","hours":"1","track":""}
+2025-04-18 10:45:40 - Validation failed: No student enrolled for user_id 2 (practice.php)
+2025-04-18 10:45:52 - Database connection successful (practice.php)
+2025-04-18 10:45:52 - User ID (practice.php): 2
+2025-04-18 10:45:52 - Form submitted (practice.php): {"studentName":"sonali","hours":"1","track":""}
+2025-04-18 10:45:52 - Validation failed: No student enrolled for user_id 2 (practice.php)
+2025-04-18 10:46:04 - Database connection successful (practice.php)
+2025-04-18 10:46:04 - User ID (practice.php): 2
+2025-04-18 10:47:48 - Database connection successful (practice.php)
+2025-04-18 10:47:48 - User ID (practice.php): 2
+2025-04-18 10:47:53 - Database connection successful (practice.php)
+2025-04-18 10:47:53 - User ID (practice.php): 2
+2025-04-18 10:47:53 - Form submitted (practice.php): {"studentName":"sonali","hours":"2","track":""}
+2025-04-18 10:47:53 - Validation failed: No student enrolled for user_id 2 (practice.php)
+2025-04-18 10:49:03 - Database connection successful (practice.php)
+2025-04-18 10:49:03 - User ID (practice.php): 2
+2025-04-18 10:49:07 - Database connection successful (assignment.php)
+2025-04-18 10:49:07 - User ID (assignment.php): 2
+2025-04-18 10:49:12 - Database connection successful (assignment.php)
+2025-04-18 10:49:12 - User ID (assignment.php): 2
+2025-04-18 10:49:12 - Form submitted (assignment.php): {"teacher":"John Doe","class":"B12","assign":""}
+2025-04-18 10:49:12 - Assignment inserted successfully for user_id: 2 (assignment.php)
+2025-04-18 10:49:13 - Database connection successful (assignment.php)
+2025-04-18 10:49:13 - User ID (assignment.php): 2
+2025-04-18 10:50:25 - Database connection successful (practice.php)
+2025-04-18 10:50:25 - User ID (practice.php): 2
+2025-04-18 10:50:30 - Database connection successful (practice.php)
+2025-04-18 10:50:30 - User ID (practice.php): 2
+2025-04-18 10:50:30 - Form submitted (practice.php): {"studentName":"1","hours":"1","track":""}
+2025-04-18 10:50:30 - Validation failed: No student enrolled for user_id 2 (practice.php)
+2025-04-18 10:50:42 - Database connection successful (practice.php)
+2025-04-18 10:50:42 - User ID (practice.php): 2
+2025-04-18 10:50:42 - Form submitted (practice.php): {"studentName":"Priyanshu","hours":"3","track":""}
+2025-04-18 10:50:42 - Validation failed: No student enrolled for user_id 2 (practice.php)
+2025-04-18 10:51:02 - Database connection successful (assignment.php)
+2025-04-18 10:51:02 - User ID (assignment.php): 2
+2025-04-18 10:51:09 - Database connection successful (assignment.php)
+2025-04-18 10:51:09 - User ID (assignment.php): 2
+2025-04-18 10:51:09 - Form submitted (assignment.php): {"teacher":"John Doe","class":"Priyanshu","assign":""}
+2025-04-18 10:51:09 - Assignment inserted successfully for user_id: 2 (assignment.php)
+2025-04-18 10:51:12 - Database connection successful (assignment.php)
+2025-04-18 10:51:12 - User ID (assignment.php): 2
+2025-04-18 10:51:16 - Database connection successful (practice.php)
+2025-04-18 10:51:16 - User ID (practice.php): 2
+2025-04-18 10:51:22 - Database connection successful (practice.php)
+2025-04-18 10:51:22 - User ID (practice.php): 2
+2025-04-18 10:51:22 - Form submitted (practice.php): {"studentName":"Priyanshu","hours":"2","track":""}
+2025-04-18 10:51:22 - Validation failed: No student enrolled for user_id 2 (practice.php)
+2025-04-18 10:51:31 - Database connection successful (practice.php)
+2025-04-18 10:51:31 - User ID (practice.php): 2
+2025-04-18 10:53:56 - Database connection successful (scheduling.php)
+2025-04-18 10:53:56 - User ID (scheduling.php): 2
+2025-04-18 10:53:56 - Fetched students for user_id 2: [] (scheduling.php)
+2025-04-18 10:54:04 - Database connection successful (enrollment.php)
+2025-04-18 10:54:04 - User ID (enrollment.php): 2
+2025-04-18 10:54:11 - Database connection successful (enrollment.php)
+2025-04-18 10:54:11 - User ID (enrollment.php): 2
+2025-04-18 10:54:11 - Form submitted (enrollment.php): {"studentName":"sonali","email":"1234@gmail.com","instrument":"Piano","guardianContact":"6390987898","enroll":""}
+2025-04-18 10:54:11 - Enrollment inserted successfully for user_id: 2 (enrollment.php)
+2025-04-18 10:54:13 - Database connection successful (enrollment.php)
+2025-04-18 10:54:13 - User ID (enrollment.php): 2
+2025-04-18 10:54:16 - Database connection successful (scheduling.php)
+2025-04-18 10:54:16 - User ID (scheduling.php): 2
+2025-04-18 10:54:16 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 10:54:24 - Database connection successful (practice.php)
+2025-04-18 10:54:24 - User ID (practice.php): 2
+2025-04-18 10:54:29 - Database connection successful (practice.php)
+2025-04-18 10:54:29 - User ID (practice.php): 2
+2025-04-18 10:54:29 - Form submitted (practice.php): {"studentName":"sonali","hours":"2","track":""}
+2025-04-18 10:54:29 - Practice log inserted successfully for user_id: 2, student_id: 2 (practice.php)
+2025-04-18 10:54:34 - Database connection successful (practice.php)
+2025-04-18 10:54:34 - User ID (practice.php): 2
+2025-04-18 10:54:39 - Database connection successful (scheduling.php)
+2025-04-18 10:54:39 - User ID (scheduling.php): 2
+2025-04-18 10:54:39 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 10:54:45 - Database connection successful (assignment.php)
+2025-04-18 10:54:45 - User ID (assignment.php): 2
+2025-04-18 10:54:57 - Database connection successful (practice.php)
+2025-04-18 10:54:57 - User ID (practice.php): 2
+2025-04-18 10:57:03 - Database connection successful (enrollment.php)
+2025-04-18 10:57:03 - User ID (enrollment.php): 2
+2025-04-18 10:57:10 - Database connection successful (enrollment.php)
+2025-04-18 10:57:10 - User ID (enrollment.php): 2
+2025-04-18 10:57:10 - Form submitted (enrollment.php): {"studentName":"Priyanshu","email":"1234@gmail.com","instrument":"Piano","guardianContact":"6390987898","enroll":""}
+2025-04-18 10:57:10 - Validation failed: User ID 2 already has a student enrolled (enrollment.php)
+2025-04-18 10:57:16 - Database connection successful (enrollment.php)
+2025-04-18 10:57:16 - User ID (enrollment.php): 2
+2025-04-18 10:58:09 - Database connection successful (recital.php)
+2025-04-18 10:58:09 - User ID (recital.php): 2
+2025-04-18 10:58:20 - Database connection successful (recital.php)
+2025-04-18 10:58:20 - User ID (recital.php): 2
+2025-04-18 10:58:20 - Form submitted (recital.php): {"eventName":"admin","date":"2025-09-01","plan":""}
+2025-04-18 10:58:20 - Recital inserted successfully for user_id: 2 (recital.php)
+2025-04-18 10:58:33 - Database connection successful (recital.php)
+2025-04-18 10:58:33 - User ID (recital.php): 2
+2025-04-18 10:58:33 - Form submitted (recital.php): {"eventName":"admin","date":"2025-09-01","plan":""}
+2025-04-18 10:58:33 - Recital inserted successfully for user_id: 2 (recital.php)
+2025-04-18 10:59:16 - Database connection successful (recital.php)
+2025-04-18 10:59:16 - User ID (recital.php): 2
+2025-04-18 10:59:16 - Form submitted (recital.php): {"eventName":"admin","date":"2025-09-01","plan":""}
+2025-04-18 10:59:16 - Recital inserted successfully for user_id: 2 (recital.php)
+2025-04-18 10:59:21 - Database connection successful (enrollment.php)
+2025-04-18 10:59:21 - User ID (enrollment.php): 2
+2025-04-18 10:59:24 - Database connection successful (scheduling.php)
+2025-04-18 10:59:24 - User ID (scheduling.php): 2
+2025-04-18 10:59:24 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 10:59:47 - Database connection successful (recital.php)
+2025-04-18 10:59:47 - User ID (recital.php): 2
+2025-04-18 11:00:04 - Database connection successful (recital.php)
+2025-04-18 11:00:04 - User ID (recital.php): 2
+2025-04-18 11:00:04 - Form submitted (recital.php): {"eventName":"music_school","date":"2005-01-01","plan":""}
+2025-04-18 11:00:04 - Recital inserted successfully for user_id: 2 (recital.php)
+2025-04-18 11:00:19 - Database connection successful (recital.php)
+2025-04-18 11:00:19 - User ID (recital.php): 2
+2025-04-18 11:04:40 - Database connection successful (recital.php)
+2025-04-18 11:04:40 - User ID (recital.php): 2
+2025-04-18 11:04:44 - Database connection successful (recital.php)
+2025-04-18 11:04:44 - User ID (recital.php): 2
+2025-04-18 11:04:46 - Database connection successful (practice.php)
+2025-04-18 11:04:46 - User ID (practice.php): 2
+2025-04-18 11:04:46 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (practice.php)
+2025-04-18 11:04:49 - Database connection successful (practice.php)
+2025-04-18 11:04:49 - User ID (practice.php): 2
+2025-04-18 11:04:49 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (practice.php)
+2025-04-18 11:04:53 - Database connection successful (practice.php)
+2025-04-18 11:04:53 - User ID (practice.php): 2
+2025-04-18 11:04:53 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (practice.php)
+2025-04-18 11:05:02 - Database connection successful (scheduling.php)
+2025-04-18 11:05:02 - User ID (scheduling.php): 2
+2025-04-18 11:05:02 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 11:05:06 - Database connection successful (enrollment.php)
+2025-04-18 11:05:06 - User ID (enrollment.php): 2
+2025-04-18 11:05:09 - Database connection successful (scheduling.php)
+2025-04-18 11:05:09 - User ID (scheduling.php): 2
+2025-04-18 11:05:09 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 11:05:50 - Database connection successful (scheduling.php)
+2025-04-18 11:05:50 - User ID (scheduling.php): 2
+2025-04-18 11:05:50 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 11:05:53 - Database connection successful (scheduling.php)
+2025-04-18 11:05:53 - User ID (scheduling.php): 2
+2025-04-18 11:05:53 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 11:05:54 - Database connection successful (enrollment.php)
+2025-04-18 11:05:54 - User ID (enrollment.php): 2
+2025-04-18 11:05:55 - Database connection successful (scheduling.php)
+2025-04-18 11:05:55 - User ID (scheduling.php): 2
+2025-04-18 11:05:55 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 11:05:58 - Database connection successful (scheduling.php)
+2025-04-18 11:05:58 - User ID (scheduling.php): 2
+2025-04-18 11:05:58 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 11:08:00 - Database connection successful (scheduling.php)
+2025-04-18 11:08:00 - User ID (scheduling.php): 2
+2025-04-18 11:08:00 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 11:08:33 - Database connection successful (assignment.php)
+2025-04-18 11:08:33 - User ID (assignment.php): 2
+2025-04-18 11:12:41 - Database connection successful (assignment.php)
+2025-04-18 11:12:41 - User ID (assignment.php): 2
+2025-04-18 11:13:07 - Database connection successful (dashboard.php)
+2025-04-18 11:13:07 - User ID (dashboard.php): 2
+2025-04-18 11:13:07 - Fetched total students for user_id 2: 1 (dashboard.php)
+2025-04-18 11:13:07 - Fetched upcoming lessons for user_id 2: [] (dashboard.php)
+2025-04-18 11:13:07 - Fetched recent practice logs for user_id 2: [{"student_name":"sonali","practice_hours":"2","created_at":"2025-04-18 14:24:29"}] (dashboard.php)
+2025-04-18 11:13:07 - Fetched planned recitals for user_id 2: [{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"}] (dashboard.php)
+2025-04-18 11:13:07 - Fetched teacher assignments for user_id 2: [{"teacher_name":"John Doe","class_name":"Priyanshu"},{"teacher_name":"John Doe","class_name":"B12"},{"teacher_name":"Jane Smith","class_name":"B12"}] (dashboard.php)
+2025-04-18 11:13:07 - Fetched instrument data for user_id 2: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 11:13:07 - Fetched practice data for user_id 2: [{"practice_date":"2025-04-18","total_hours":"2"}] (dashboard.php)
+2025-04-18 11:14:03 - Database connection successful (dashboard.php)
+2025-04-18 11:14:03 - User ID (dashboard.php): 2
+2025-04-18 11:14:03 - Fetched total students for user_id 2: 1 (dashboard.php)
+2025-04-18 11:14:03 - Fetched upcoming lessons for user_id 2: [] (dashboard.php)
+2025-04-18 11:14:03 - Fetched recent practice logs for user_id 2: [{"student_name":"sonali","practice_hours":"2","created_at":"2025-04-18 14:24:29"}] (dashboard.php)
+2025-04-18 11:14:03 - Fetched planned recitals for user_id 2: [{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"}] (dashboard.php)
+2025-04-18 11:14:03 - Fetched teacher assignments for user_id 2: [{"teacher_name":"John Doe","class_name":"Priyanshu"},{"teacher_name":"John Doe","class_name":"B12"},{"teacher_name":"Jane Smith","class_name":"B12"}] (dashboard.php)
+2025-04-18 11:14:03 - Fetched instrument data for user_id 2: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 11:14:03 - Fetched practice data for user_id 2: [{"practice_date":"2025-04-18","total_hours":"2"}] (dashboard.php)
+2025-04-18 11:14:58 - Database connection successful (enrollment.php)
+2025-04-18 11:14:58 - User ID (enrollment.php): 2
+2025-04-18 11:15:01 - Database connection successful (scheduling.php)
+2025-04-18 11:15:01 - User ID (scheduling.php): 2
+2025-04-18 11:15:01 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 11:15:03 - Database connection successful (assignment.php)
+2025-04-18 11:15:03 - User ID (assignment.php): 2
+2025-04-18 11:15:10 - Database connection successful (practice.php)
+2025-04-18 11:15:10 - User ID (practice.php): 2
+2025-04-18 11:15:10 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (practice.php)
+2025-04-18 11:15:12 - Database connection successful (recital.php)
+2025-04-18 11:15:12 - User ID (recital.php): 2
+2025-04-18 11:15:16 - Database connection successful (dashboard.php)
+2025-04-18 11:15:16 - User ID (dashboard.php): 2
+2025-04-18 11:15:16 - Fetched total students for user_id 2: 1 (dashboard.php)
+2025-04-18 11:15:16 - Fetched upcoming lessons for user_id 2: [] (dashboard.php)
+2025-04-18 11:15:16 - Fetched recent practice logs for user_id 2: [{"student_name":"sonali","practice_hours":"2","created_at":"2025-04-18 14:24:29"}] (dashboard.php)
+2025-04-18 11:15:16 - Fetched planned recitals for user_id 2: [{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"}] (dashboard.php)
+2025-04-18 11:15:16 - Fetched teacher assignments for user_id 2: [{"teacher_name":"John Doe","class_name":"Priyanshu"},{"teacher_name":"John Doe","class_name":"B12"},{"teacher_name":"Jane Smith","class_name":"B12"}] (dashboard.php)
+2025-04-18 11:15:16 - Fetched instrument data for user_id 2: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 11:15:16 - Fetched practice data for user_id 2: [{"practice_date":"2025-04-18","total_hours":"2"}] (dashboard.php)
+2025-04-18 11:15:23 - Database connection successful (dashboard.php)
+2025-04-18 11:15:23 - User ID (dashboard.php): 2
+2025-04-18 11:15:23 - Fetched total students for user_id 2: 1 (dashboard.php)
+2025-04-18 11:15:23 - Fetched upcoming lessons for user_id 2: [] (dashboard.php)
+2025-04-18 11:15:23 - Fetched recent practice logs for user_id 2: [{"student_name":"sonali","practice_hours":"2","created_at":"2025-04-18 14:24:29"}] (dashboard.php)
+2025-04-18 11:15:23 - Fetched planned recitals for user_id 2: [{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"}] (dashboard.php)
+2025-04-18 11:15:23 - Fetched teacher assignments for user_id 2: [{"teacher_name":"John Doe","class_name":"Priyanshu"},{"teacher_name":"John Doe","class_name":"B12"},{"teacher_name":"Jane Smith","class_name":"B12"}] (dashboard.php)
+2025-04-18 11:15:23 - Fetched instrument data for user_id 2: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 11:15:23 - Fetched practice data for user_id 2: [{"practice_date":"2025-04-18","total_hours":"2"}] (dashboard.php)
+2025-04-18 11:17:35 - Database connection successful (dashboard.php)
+2025-04-18 11:17:35 - User ID (dashboard.php): 2
+2025-04-18 11:17:35 - Fetched total students for user_id 2: 1 (dashboard.php)
+2025-04-18 11:17:35 - Fetched upcoming lessons for user_id 2: [] (dashboard.php)
+2025-04-18 11:17:35 - Fetched recent practice logs for user_id 2: [{"student_name":"sonali","practice_hours":"2","created_at":"2025-04-18 14:24:29"}] (dashboard.php)
+2025-04-18 11:17:35 - Fetched planned recitals for user_id 2: [{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"}] (dashboard.php)
+2025-04-18 11:17:35 - Fetched teacher assignments for user_id 2: [{"teacher_name":"John Doe","class_name":"Priyanshu"},{"teacher_name":"John Doe","class_name":"B12"},{"teacher_name":"Jane Smith","class_name":"B12"}] (dashboard.php)
+2025-04-18 11:17:35 - Fetched instrument data for user_id 2: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 11:17:35 - Fetched practice data for user_id 2: [{"practice_date":"2025-04-18","total_hours":"2"}] (dashboard.php)
+2025-04-18 11:18:27 - Database connection successful (dashboard.php)
+2025-04-18 11:18:27 - User ID (dashboard.php): 2
+2025-04-18 11:18:27 - Fetched total students for user_id 2: 1 (dashboard.php)
+2025-04-18 11:18:27 - Fetched upcoming lessons for user_id 2: [] (dashboard.php)
+2025-04-18 11:18:27 - Fetched recent practice logs for user_id 2: [{"student_name":"sonali","practice_hours":"2","created_at":"2025-04-18 14:24:29"}] (dashboard.php)
+2025-04-18 11:18:27 - Fetched planned recitals for user_id 2: [{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"}] (dashboard.php)
+2025-04-18 11:18:27 - Fetched teacher assignments for user_id 2: [{"teacher_name":"John Doe","class_name":"Priyanshu"},{"teacher_name":"John Doe","class_name":"B12"},{"teacher_name":"Jane Smith","class_name":"B12"}] (dashboard.php)
+2025-04-18 11:18:27 - Fetched instrument data for user_id 2: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 11:18:27 - Fetched practice data for user_id 2: [{"practice_date":"2025-04-18","total_hours":"2"}] (dashboard.php)
+2025-04-18 11:20:00 - Database connection successful (dashboard.php)
+2025-04-18 11:20:00 - User ID (dashboard.php): 2
+2025-04-18 11:20:00 - Fetched total students for user_id 2: 1 (dashboard.php)
+2025-04-18 11:20:00 - Fetched upcoming lessons for user_id 2: [] (dashboard.php)
+2025-04-18 11:20:00 - Fetched recent practice logs for user_id 2: [{"student_name":"sonali","practice_hours":"2","created_at":"2025-04-18 14:24:29"}] (dashboard.php)
+2025-04-18 11:20:00 - Fetched planned recitals for user_id 2: [{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"}] (dashboard.php)
+2025-04-18 11:20:00 - Fetched teacher assignments for user_id 2: [{"teacher_name":"John Doe","class_name":"Priyanshu"},{"teacher_name":"John Doe","class_name":"B12"},{"teacher_name":"Jane Smith","class_name":"B12"}] (dashboard.php)
+2025-04-18 11:20:00 - Fetched instrument data for user_id 2: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 11:20:00 - Fetched practice data for user_id 2: [{"practice_date":"2025-04-18","total_hours":"2"}] (dashboard.php)
+2025-04-18 11:20:09 - Database connection successful (dashboard.php)
+2025-04-18 11:20:09 - User ID (dashboard.php): 2
+2025-04-18 11:20:09 - Fetched total students for user_id 2: 1 (dashboard.php)
+2025-04-18 11:20:09 - Fetched upcoming lessons for user_id 2: [] (dashboard.php)
+2025-04-18 11:20:09 - Fetched recent practice logs for user_id 2: [{"student_name":"sonali","practice_hours":"2","created_at":"2025-04-18 14:24:29"}] (dashboard.php)
+2025-04-18 11:20:09 - Fetched planned recitals for user_id 2: [{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"}] (dashboard.php)
+2025-04-18 11:20:09 - Fetched teacher assignments for user_id 2: [{"teacher_name":"John Doe","class_name":"Priyanshu"},{"teacher_name":"John Doe","class_name":"B12"},{"teacher_name":"Jane Smith","class_name":"B12"}] (dashboard.php)
+2025-04-18 11:20:09 - Fetched instrument data for user_id 2: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 11:20:09 - Fetched practice data for user_id 2: [{"practice_date":"2025-04-18","total_hours":"2"}] (dashboard.php)
+2025-04-18 11:20:19 - Database connection successful (dashboard.php)
+2025-04-18 11:20:19 - User ID (dashboard.php): 2
+2025-04-18 11:20:19 - Fetched total students for user_id 2: 1 (dashboard.php)
+2025-04-18 11:20:19 - Fetched upcoming lessons for user_id 2: [] (dashboard.php)
+2025-04-18 11:20:19 - Fetched recent practice logs for user_id 2: [{"student_name":"sonali","practice_hours":"2","created_at":"2025-04-18 14:24:29"}] (dashboard.php)
+2025-04-18 11:20:19 - Fetched planned recitals for user_id 2: [{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"}] (dashboard.php)
+2025-04-18 11:20:19 - Fetched teacher assignments for user_id 2: [{"teacher_name":"John Doe","class_name":"Priyanshu"},{"teacher_name":"John Doe","class_name":"B12"},{"teacher_name":"Jane Smith","class_name":"B12"}] (dashboard.php)
+2025-04-18 11:20:19 - Fetched instrument data for user_id 2: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 11:20:19 - Fetched practice data for user_id 2: [{"practice_date":"2025-04-18","total_hours":"2"}] (dashboard.php)
+2025-04-18 11:21:28 - Database connection successful (dashboard.php)
+2025-04-18 11:21:28 - User ID (dashboard.php): 2
+2025-04-18 11:21:28 - Fetched total students for user_id 2: 1 (dashboard.php)
+2025-04-18 11:21:28 - Fetched upcoming lessons for user_id 2: [] (dashboard.php)
+2025-04-18 11:21:28 - Fetched recent practice logs for user_id 2: [{"student_name":"sonali","practice_hours":"2","created_at":"2025-04-18 14:24:29"}] (dashboard.php)
+2025-04-18 11:21:28 - Fetched planned recitals for user_id 2: [{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"}] (dashboard.php)
+2025-04-18 11:21:28 - Fetched teacher assignments for user_id 2: [{"teacher_name":"John Doe","class_name":"Priyanshu"},{"teacher_name":"John Doe","class_name":"B12"},{"teacher_name":"Jane Smith","class_name":"B12"}] (dashboard.php)
+2025-04-18 11:21:28 - Fetched instrument data for user_id 2: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 11:21:28 - Fetched practice data for user_id 2: [{"practice_date":"2025-04-18","total_hours":"2"}] (dashboard.php)
+2025-04-18 11:21:43 - Database connection successful (enrollment.php)
+2025-04-18 11:21:43 - User ID (enrollment.php): 2
+2025-04-18 11:21:44 - Database connection successful (scheduling.php)
+2025-04-18 11:21:44 - User ID (scheduling.php): 2
+2025-04-18 11:21:44 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 11:21:45 - Database connection successful (assignment.php)
+2025-04-18 11:21:45 - User ID (assignment.php): 2
+2025-04-18 11:21:46 - Database connection successful (practice.php)
+2025-04-18 11:21:46 - User ID (practice.php): 2
+2025-04-18 11:21:46 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (practice.php)
+2025-04-18 11:21:47 - Database connection successful (recital.php)
+2025-04-18 11:21:47 - User ID (recital.php): 2
+2025-04-18 11:26:45 - Database connection successful (collaboration.php)
+2025-04-18 11:26:45 - User ID (collaboration.php): 2
+2025-04-18 11:26:45 - Fetched recent messages for user_id 2: [] (collaboration.php)
+2025-04-18 11:27:02 - Database connection successful (collaboration.php)
+2025-04-18 11:27:02 - User ID (collaboration.php): 2
+2025-04-18 11:27:02 - Collaboration message inserted successfully for user_id: 2 (collaboration.php)
+2025-04-18 11:27:02 - Fetched recent messages for user_id 2: [{"recipient_type":"teacher","recipient_name":"Sonali","message_text":"fbnnsdnd","created_at":"2025-04-18 14:57:02"}] (collaboration.php)
+2025-04-18 11:27:25 - Database connection successful (collaboration.php)
+2025-04-18 11:27:25 - User ID (collaboration.php): 2
+2025-04-18 11:27:25 - Fetched recent messages for user_id 2: [{"recipient_type":"teacher","recipient_name":"Sonali","message_text":"fbnnsdnd","created_at":"2025-04-18 14:57:02"}] (collaboration.php)
+2025-04-18 11:29:58 - Database connection successful (index.php)
+2025-04-18 11:29:58 - User ID (index.php): 2
+2025-04-18 11:29:59 - Database connection successful (index.php)
+2025-04-18 11:29:59 - User ID (index.php): 2
+2025-04-18 11:30:00 - Database connection successful (enrollment.php)
+2025-04-18 11:30:00 - User ID (enrollment.php): 2
+2025-04-18 11:30:01 - Database connection successful (index.php)
+2025-04-18 11:30:01 - User ID (index.php): 2
+2025-04-18 11:31:07 - Database connection successful (collaboration.php)
+2025-04-18 11:31:07 - User ID (collaboration.php): 2
+2025-04-18 11:31:07 - Fetched recent messages for user_id 2: [{"recipient_type":"teacher","recipient_name":"Sonali","message_text":"fbnnsdnd","created_at":"2025-04-18 14:57:02"}] (collaboration.php)
+2025-04-18 11:31:10 - Database connection successful (index.php)
+2025-04-18 11:31:10 - User ID (index.php): 2
+2025-04-18 11:31:24 - Database connection successful (collaboration.php)
+2025-04-18 11:31:24 - User ID (collaboration.php): 2
+2025-04-18 11:31:24 - Fetched recent messages for user_id 2: [{"recipient_type":"teacher","recipient_name":"Sonali","message_text":"fbnnsdnd","created_at":"2025-04-18 14:57:02"}] (collaboration.php)
+2025-04-18 11:31:28 - Database connection successful (index.php)
+2025-04-18 11:31:28 - User ID (index.php): 2
+2025-04-18 11:32:17 - Database connection successful (enrollment.php)
+2025-04-18 11:32:17 - User ID (enrollment.php): 2
+2025-04-18 11:32:22 - Database connection successful (index.php)
+2025-04-18 11:32:22 - User ID (index.php): 2
+2025-04-18 11:32:30 - Database connection successful (enrollment.php)
+2025-04-18 11:32:30 - User ID (enrollment.php): 2
+2025-04-18 11:32:33 - Database connection successful (index.php)
+2025-04-18 11:32:33 - User ID (index.php): 2
+2025-04-18 11:32:54 - Database connection successful (index.php)
+2025-04-18 11:32:54 - User ID (index.php): 2
+2025-04-18 11:32:57 - Database connection successful (dashboard.php)
+2025-04-18 11:32:57 - User ID (dashboard.php): 2
+2025-04-18 11:32:57 - Fetched total students for user_id 2: 1 (dashboard.php)
+2025-04-18 11:32:57 - Fetched upcoming lessons for user_id 2: [] (dashboard.php)
+2025-04-18 11:32:57 - Fetched recent practice logs for user_id 2: [{"student_name":"sonali","practice_hours":"2","created_at":"2025-04-18 14:24:29"}] (dashboard.php)
+2025-04-18 11:32:57 - Fetched planned recitals for user_id 2: [{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"}] (dashboard.php)
+2025-04-18 11:32:57 - Fetched teacher assignments for user_id 2: [{"teacher_name":"John Doe","class_name":"Priyanshu"},{"teacher_name":"John Doe","class_name":"B12"},{"teacher_name":"Jane Smith","class_name":"B12"}] (dashboard.php)
+2025-04-18 11:32:57 - Fetched instrument data for user_id 2: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 11:32:57 - Fetched practice data for user_id 2: [{"practice_date":"2025-04-18","total_hours":"2"}] (dashboard.php)
+2025-04-18 11:41:53 - Database connection successful (dashboard.php)
+2025-04-18 11:41:53 - User ID (dashboard.php): 2
+2025-04-18 11:41:53 - Fetched total students for user_id 2: 1 (dashboard.php)
+2025-04-18 11:41:53 - Fetched upcoming lessons for user_id 2: [] (dashboard.php)
+2025-04-18 11:41:53 - Fetched recent practice logs for user_id 2: [{"student_name":"sonali","practice_hours":"2","created_at":"2025-04-18 14:24:29"}] (dashboard.php)
+2025-04-18 11:41:53 - Fetched planned recitals for user_id 2: [{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"}] (dashboard.php)
+2025-04-18 11:41:53 - Fetched teacher assignments for user_id 2: [{"teacher_name":"John Doe","class_name":"Priyanshu"},{"teacher_name":"John Doe","class_name":"B12"},{"teacher_name":"Jane Smith","class_name":"B12"}] (dashboard.php)
+2025-04-18 11:41:53 - Fetched instrument data for user_id 2: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 11:41:53 - Fetched practice data for user_id 2: [{"practice_date":"2025-04-18","total_hours":"2"}] (dashboard.php)
+2025-04-18 11:41:55 - Database connection successful (enrollment.php)
+2025-04-18 11:41:55 - User ID (enrollment.php): 2
+2025-04-18 11:41:55 - Students fetch failed (enrollment.php): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'age' in 'field list'
+2025-04-18 11:42:07 - Database connection successful (enrollment.php)
+2025-04-18 11:42:07 - User ID (enrollment.php): 2
+2025-04-18 11:42:07 - Students fetch failed (enrollment.php): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'age' in 'field list'
+2025-04-18 11:42:13 - Database connection successful (index.php)
+2025-04-18 11:42:13 - User ID (index.php): 2
+2025-04-18 11:42:24 - Database connection successful (enrollment.php)
+2025-04-18 11:42:24 - User ID (enrollment.php): 2
+2025-04-18 11:42:24 - Students fetch failed (enrollment.php): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'age' in 'field list'
+2025-04-18 11:42:25 - Database connection successful (index.php)
+2025-04-18 11:42:25 - User ID (index.php): 2
+2025-04-18 11:42:35 - Database connection successful (enrollment.php)
+2025-04-18 11:42:35 - User ID (enrollment.php): 2
+2025-04-18 11:42:39 - Database connection successful (index.php)
+2025-04-18 11:42:39 - User ID (index.php): 2
+2025-04-18 11:42:41 - Database connection successful (collaboration.php)
+2025-04-18 11:42:41 - User ID (collaboration.php): 2
+2025-04-18 11:42:41 - Fetched recent messages for user_id 2: [{"recipient_type":"teacher","recipient_name":"Sonali","message_text":"fbnnsdnd","created_at":"2025-04-18 14:57:02"}] (collaboration.php)
+2025-04-18 11:42:47 - Database connection successful (scheduling.php)
+2025-04-18 11:42:47 - User ID (scheduling.php): 2
+2025-04-18 11:42:47 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 11:42:54 - Database connection successful (index.php)
+2025-04-18 11:42:54 - User ID (index.php): 2
+2025-04-18 11:46:55 - Database connection successful (index.php)
+2025-04-18 11:46:55 - User ID (index.php): 2
+2025-04-18 11:47:09 - Database connection successful (index.php)
+2025-04-18 11:47:09 - User ID (index.php): 2
+2025-04-18 11:47:27 - Database connection successful (index.php)
+2025-04-18 11:47:27 - User ID (index.php): 2
+2025-04-18 11:47:51 - Database connection successful (index.php)
+2025-04-18 11:47:51 - User ID (index.php): 2
+2025-04-18 11:48:06 - Database connection successful (index.php)
+2025-04-18 11:48:06 - User ID (index.php): 2
+2025-04-18 11:48:28 - Database connection successful (index.php)
+2025-04-18 11:48:28 - User ID (index.php): 2
+2025-04-18 11:48:47 - Database connection successful (index.php)
+2025-04-18 11:48:47 - User ID (index.php): 2
+2025-04-18 11:49:08 - Database connection successful (index.php)
+2025-04-18 11:49:08 - User ID (index.php): 2
+2025-04-18 11:49:40 - Database connection successful (index.php)
+2025-04-18 11:49:40 - User ID (index.php): 2
+2025-04-18 11:52:01 - Database connection successful (assignment.php)
+2025-04-18 11:52:01 - User ID (assignment.php): 2
+2025-04-18 11:52:03 - Database connection successful (index.php)
+2025-04-18 11:52:03 - User ID (index.php): 2
+2025-04-18 11:52:05 - Database connection successful (assignment.php)
+2025-04-18 11:52:05 - User ID (assignment.php): 2
+2025-04-18 11:52:43 - Database connection successful (assignment.php)
+2025-04-18 11:52:43 - User ID (assignment.php): 2
+2025-04-18 11:52:52 - Database connection successful (assignment.php)
+2025-04-18 11:52:52 - User ID (assignment.php): 2
+2025-04-18 11:52:53 - Database connection successful (index.php)
+2025-04-18 11:52:53 - User ID (index.php): 2
+2025-04-18 11:53:00 - Database connection successful (index.php)
+2025-04-18 11:53:00 - User ID (index.php): 2
+2025-04-18 11:53:18 - Database connection successful (index.php)
+2025-04-18 11:53:18 - User ID (index.php): 2
+2025-04-18 11:53:36 - Database connection successful (index.php)
+2025-04-18 11:53:36 - User ID (index.php): 2
+2025-04-18 11:53:58 - Database connection successful (assignment.php)
+2025-04-18 11:53:58 - User ID (assignment.php): 2
+2025-04-18 11:54:00 - Database connection successful (assignment.php)
+2025-04-18 11:54:00 - User ID (assignment.php): 2
+2025-04-18 11:54:30 - Database connection successful (assignment.php)
+2025-04-18 11:54:30 - User ID (assignment.php): 2
+2025-04-18 11:54:56 - Database connection successful (index.php)
+2025-04-18 11:54:56 - User ID (index.php): 2
+2025-04-18 11:54:58 - Database connection successful (enrollment.php)
+2025-04-18 11:54:58 - User ID (enrollment.php): 2
+2025-04-18 11:55:02 - Database connection successful (index.php)
+2025-04-18 11:55:02 - User ID (index.php): 2
+2025-04-18 11:55:03 - Database connection successful (enrollment.php)
+2025-04-18 11:55:03 - User ID (enrollment.php): 2
+2025-04-18 11:55:05 - Database connection successful (enrollment.php)
+2025-04-18 11:55:05 - User ID (enrollment.php): 2
+2025-04-18 11:55:06 - Database connection successful (scheduling.php)
+2025-04-18 11:55:06 - User ID (scheduling.php): 2
+2025-04-18 11:55:06 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 11:55:07 - Database connection successful (assignment.php)
+2025-04-18 11:55:07 - User ID (assignment.php): 2
+2025-04-18 11:55:08 - Database connection successful (practice.php)
+2025-04-18 11:55:08 - User ID (practice.php): 2
+2025-04-18 11:55:08 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (practice.php)
+2025-04-18 11:55:09 - Database connection successful (practice.php)
+2025-04-18 11:55:09 - User ID (practice.php): 2
+2025-04-18 11:55:09 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (practice.php)
+2025-04-18 11:55:10 - Database connection successful (recital.php)
+2025-04-18 11:55:10 - User ID (recital.php): 2
+2025-04-18 11:55:16 - Database connection successful (enrollment.php)
+2025-04-18 11:55:16 - User ID (enrollment.php): 2
+2025-04-18 11:56:23 - Database connection successful (enrollment.php)
+2025-04-18 11:56:23 - User ID (enrollment.php): 2
+2025-04-18 11:56:23 - Students fetch failed (enrollment.php): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'age' in 'field list'
+2025-04-18 11:56:52 - Database connection successful (enrollment.php)
+2025-04-18 11:56:52 - User ID (enrollment.php): 2
+2025-04-18 11:56:52 - Student enrollment failed (enrollment.php): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'age' in 'field list'
+2025-04-18 11:56:52 - Students fetch failed (enrollment.php): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'age' in 'field list'
+2025-04-18 11:57:17 - Database connection successful (assignment.php)
+2025-04-18 11:57:17 - User ID (assignment.php): 2
+2025-04-18 11:57:17 - Assignments fetch failed (assignment.php): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'instrument' in 'field list'
+2025-04-18 11:57:35 - Database connection successful (assignment.php)
+2025-04-18 11:57:35 - User ID (assignment.php): 2
+2025-04-18 11:57:35 - Assignments fetch failed (assignment.php): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'instrument' in 'field list'
+2025-04-18 11:57:43 - Database connection successful (assignment.php)
+2025-04-18 11:57:43 - User ID (assignment.php): 2
+2025-04-18 11:57:43 - Assignments fetch failed (assignment.php): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'instrument' in 'field list'
+2025-04-18 11:58:06 - Database connection successful (assignment.php)
+2025-04-18 11:58:06 - User ID (assignment.php): 2
+2025-04-18 11:58:09 - Database connection successful (index.php)
+2025-04-18 11:58:09 - User ID (index.php): 2
+2025-04-18 11:58:10 - Database connection successful (enrollment.php)
+2025-04-18 11:58:10 - User ID (enrollment.php): 2
+2025-04-18 11:58:12 - Database connection successful (scheduling.php)
+2025-04-18 11:58:12 - User ID (scheduling.php): 2
+2025-04-18 11:58:12 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 11:58:14 - Database connection successful (assignment.php)
+2025-04-18 11:58:14 - User ID (assignment.php): 2
+2025-04-18 11:58:16 - Database connection successful (index.php)
+2025-04-18 11:58:16 - User ID (index.php): 2
+2025-04-18 11:58:17 - Database connection successful (enrollment.php)
+2025-04-18 11:58:17 - User ID (enrollment.php): 2
+2025-04-18 11:59:21 - Database connection successful (collaboration.php)
+2025-04-18 11:59:21 - User ID (collaboration.php): 2
+2025-04-18 11:59:21 - Fetched recent messages for user_id 2: [{"recipient_type":"teacher","recipient_name":"Sonali","message_text":"fbnnsdnd","created_at":"2025-04-18 14:57:02"}] (collaboration.php)
+2025-04-18 11:59:31 - Database connection successful (collaboration.php)
+2025-04-18 11:59:31 - User ID (collaboration.php): 2
+2025-04-18 11:59:31 - Fetched recent messages for user_id 2: [{"recipient_type":"teacher","recipient_name":"Sonali","message_text":"fbnnsdnd","created_at":"2025-04-18 14:57:02"}] (collaboration.php)
+2025-04-18 11:59:51 - Database connection successful (collaboration.php)
+2025-04-18 11:59:51 - User ID (collaboration.php): 2
+2025-04-18 11:59:51 - Fetched recent messages for user_id 2: [{"recipient_type":"teacher","recipient_name":"Sonali","message_text":"fbnnsdnd","created_at":"2025-04-18 14:57:02"}] (collaboration.php)
+2025-04-18 12:00:08 - Database connection successful (dashboard.php)
+2025-04-18 12:00:08 - User ID (dashboard.php): 2
+2025-04-18 12:00:08 - Fetched total students for user_id 2: 1 (dashboard.php)
+2025-04-18 12:00:08 - Fetched upcoming lessons for user_id 2: [] (dashboard.php)
+2025-04-18 12:00:08 - Fetched recent practice logs for user_id 2: [{"student_name":"sonali","practice_hours":"2","created_at":"2025-04-18 14:24:29"}] (dashboard.php)
+2025-04-18 12:00:08 - Fetched planned recitals for user_id 2: [{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"}] (dashboard.php)
+2025-04-18 12:00:08 - Fetched teacher assignments for user_id 2: [{"teacher_name":"John Doe","class_name":"Priyanshu"},{"teacher_name":"John Doe","class_name":"B12"},{"teacher_name":"Jane Smith","class_name":"B12"}] (dashboard.php)
+2025-04-18 12:00:08 - Fetched instrument data for user_id 2: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 12:00:08 - Fetched practice data for user_id 2: [{"practice_date":"2025-04-18","total_hours":"2"}] (dashboard.php)
+2025-04-18 12:00:43 - Database connection successful (dashboard.php)
+2025-04-18 12:00:43 - User ID (dashboard.php): 2
+2025-04-18 12:00:43 - Fetched total students for user_id 2: 1 (dashboard.php)
+2025-04-18 12:00:43 - Fetched upcoming lessons for user_id 2: [] (dashboard.php)
+2025-04-18 12:00:43 - Fetched recent practice logs for user_id 2: [{"student_name":"sonali","practice_hours":"2","created_at":"2025-04-18 14:24:29"}] (dashboard.php)
+2025-04-18 12:00:43 - Fetched planned recitals for user_id 2: [{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"}] (dashboard.php)
+2025-04-18 12:00:43 - Fetched teacher assignments for user_id 2: [{"teacher_name":"John Doe","class_name":"Priyanshu"},{"teacher_name":"John Doe","class_name":"B12"},{"teacher_name":"Jane Smith","class_name":"B12"}] (dashboard.php)
+2025-04-18 12:00:43 - Fetched instrument data for user_id 2: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 12:00:43 - Fetched practice data for user_id 2: [{"practice_date":"2025-04-18","total_hours":"2"}] (dashboard.php)
+2025-04-18 12:01:00 - Database connection successful (enrollment.php)
+2025-04-18 12:01:00 - User ID (enrollment.php): 2
+2025-04-18 12:01:05 - Database connection successful (scheduling.php)
+2025-04-18 12:01:05 - User ID (scheduling.php): 2
+2025-04-18 12:01:05 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 12:01:06 - Database connection successful (scheduling.php)
+2025-04-18 12:01:06 - User ID (scheduling.php): 2
+2025-04-18 12:01:06 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 12:01:07 - Database connection successful (assignment.php)
+2025-04-18 12:01:07 - User ID (assignment.php): 2
+2025-04-18 12:01:22 - Database connection successful (assignment.php)
+2025-04-18 12:01:22 - User ID (assignment.php): 2
+2025-04-18 12:01:27 - Database connection successful (assignment.php)
+2025-04-18 12:01:27 - User ID (assignment.php): 2
+2025-04-18 12:01:28 - Database connection successful (assignment.php)
+2025-04-18 12:01:28 - User ID (assignment.php): 2
+2025-04-18 12:02:00 - Database connection successful (assignment.php)
+2025-04-18 12:02:00 - User ID (assignment.php): 2
+2025-04-18 12:02:03 - Database connection successful (enrollment.php)
+2025-04-18 12:02:03 - User ID (enrollment.php): 2
+2025-04-18 12:02:04 - Database connection successful (enrollment.php)
+2025-04-18 12:02:04 - User ID (enrollment.php): 2
+2025-04-18 12:02:05 - Database connection successful (scheduling.php)
+2025-04-18 12:02:05 - User ID (scheduling.php): 2
+2025-04-18 12:02:05 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 12:02:06 - Database connection successful (assignment.php)
+2025-04-18 12:02:06 - User ID (assignment.php): 2
+2025-04-18 12:02:08 - Database connection successful (recital.php)
+2025-04-18 12:02:08 - User ID (recital.php): 2
+2025-04-18 12:02:09 - Database connection successful (recital.php)
+2025-04-18 12:02:09 - User ID (recital.php): 2
+2025-04-18 12:02:11 - Database connection successful (practice.php)
+2025-04-18 12:02:11 - User ID (practice.php): 2
+2025-04-18 12:02:11 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (practice.php)
+2025-04-18 12:02:11 - Database connection successful (assignment.php)
+2025-04-18 12:02:11 - User ID (assignment.php): 2
+2025-04-18 12:02:18 - Database connection successful (enrollment.php)
+2025-04-18 12:02:18 - User ID (enrollment.php): 2
+2025-04-18 12:02:35 - Database connection successful (enrollment.php)
+2025-04-18 12:02:35 - User ID (enrollment.php): 2
+2025-04-18 12:02:40 - Database connection successful (assignment.php)
+2025-04-18 12:02:40 - User ID (assignment.php): 2
+2025-04-18 12:02:42 - Database connection successful (enrollment.php)
+2025-04-18 12:02:42 - User ID (enrollment.php): 2
+2025-04-18 12:02:50 - Database connection successful (enrollment.php)
+2025-04-18 12:02:50 - User ID (enrollment.php): 2
+2025-04-18 12:02:54 - Database connection successful (assignment.php)
+2025-04-18 12:02:54 - User ID (assignment.php): 2
+2025-04-18 12:03:38 - Database connection successful (assignment.php)
+2025-04-18 12:03:38 - User ID (assignment.php): 2
+2025-04-18 12:03:42 - Database connection successful (enrollment.php)
+2025-04-18 12:03:42 - User ID (enrollment.php): 2
+2025-04-18 12:03:44 - Database connection successful (scheduling.php)
+2025-04-18 12:03:44 - User ID (scheduling.php): 2
+2025-04-18 12:03:44 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 12:03:45 - Database connection successful (assignment.php)
+2025-04-18 12:03:45 - User ID (assignment.php): 2
+2025-04-18 12:03:47 - Database connection successful (recital.php)
+2025-04-18 12:03:47 - User ID (recital.php): 2
+2025-04-18 12:03:50 - Database connection successful (assignment.php)
+2025-04-18 12:03:50 - User ID (assignment.php): 2
+2025-04-18 12:03:55 - Database connection successful (enrollment.php)
+2025-04-18 12:03:55 - User ID (enrollment.php): 2
+2025-04-18 12:04:39 - Database connection successful (assignment.php)
+2025-04-18 12:04:39 - User ID (assignment.php): 2
+2025-04-18 12:04:51 - Database connection successful (assignment.php)
+2025-04-18 12:04:51 - User ID (assignment.php): 2
+2025-04-18 12:05:00 - Database connection successful (scheduling.php)
+2025-04-18 12:05:00 - User ID (scheduling.php): 2
+2025-04-18 12:05:00 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 12:05:02 - Database connection successful (assignment.php)
+2025-04-18 12:05:02 - User ID (assignment.php): 2
+2025-04-18 12:05:03 - Database connection successful (enrollment.php)
+2025-04-18 12:05:03 - User ID (enrollment.php): 2
+2025-04-18 12:05:04 - Database connection successful (practice.php)
+2025-04-18 12:05:04 - User ID (practice.php): 2
+2025-04-18 12:05:04 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (practice.php)
+2025-04-18 12:05:05 - Database connection successful (recital.php)
+2025-04-18 12:05:05 - User ID (recital.php): 2
+2025-04-18 12:05:11 - Database connection successful (recital.php)
+2025-04-18 12:05:11 - User ID (recital.php): 2
+2025-04-18 12:05:27 - Database connection successful (collaboration.php)
+2025-04-18 12:05:27 - User ID (collaboration.php): 2
+2025-04-18 12:05:27 - Fetched recent messages for user_id 2: [{"recipient_type":"teacher","recipient_name":"Sonali","message_text":"fbnnsdnd","created_at":"2025-04-18 14:57:02"}] (collaboration.php)
+2025-04-18 12:05:36 - Database connection successful (dashboard.php)
+2025-04-18 12:05:36 - User ID (dashboard.php): 2
+2025-04-18 12:05:36 - Fetched total students for user_id 2: 1 (dashboard.php)
+2025-04-18 12:05:36 - Fetched upcoming lessons for user_id 2: [] (dashboard.php)
+2025-04-18 12:05:36 - Fetched recent practice logs for user_id 2: [{"student_name":"sonali","practice_hours":"2","created_at":"2025-04-18 14:24:29"}] (dashboard.php)
+2025-04-18 12:05:36 - Fetched planned recitals for user_id 2: [{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"}] (dashboard.php)
+2025-04-18 12:05:36 - Fetched teacher assignments for user_id 2: [{"teacher_name":"John Doe","class_name":"Priyanshu"},{"teacher_name":"John Doe","class_name":"B12"},{"teacher_name":"Jane Smith","class_name":"B12"}] (dashboard.php)
+2025-04-18 12:05:36 - Fetched instrument data for user_id 2: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 12:05:36 - Fetched practice data for user_id 2: [{"practice_date":"2025-04-18","total_hours":"2"}] (dashboard.php)
+2025-04-18 12:06:09 - Database connection successful (dashboard.php)
+2025-04-18 12:06:09 - User ID (dashboard.php): 2
+2025-04-18 12:06:09 - Fetched total students for user_id 2: 1 (dashboard.php)
+2025-04-18 12:06:09 - Fetched upcoming lessons for user_id 2: [] (dashboard.php)
+2025-04-18 12:06:09 - Fetched recent practice logs for user_id 2: [{"student_name":"sonali","practice_hours":"2","created_at":"2025-04-18 14:24:29"}] (dashboard.php)
+2025-04-18 12:06:09 - Fetched planned recitals for user_id 2: [{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"},{"event_name":"admin","recital_date":"2025-09-01"}] (dashboard.php)
+2025-04-18 12:06:09 - Fetched teacher assignments for user_id 2: [{"teacher_name":"John Doe","class_name":"Priyanshu"},{"teacher_name":"John Doe","class_name":"B12"},{"teacher_name":"Jane Smith","class_name":"B12"}] (dashboard.php)
+2025-04-18 12:06:09 - Fetched instrument data for user_id 2: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 12:06:09 - Fetched practice data for user_id 2: [{"practice_date":"2025-04-18","total_hours":"2"}] (dashboard.php)
+2025-04-18 12:06:48 - Database connection successful (enrollment.php)
+2025-04-18 12:06:48 - User ID (enrollment.php): 2
+2025-04-18 12:12:41 - Database connection successful (enrollment.php)
+2025-04-18 12:12:41 - User ID (enrollment.php): 2
+2025-04-18 12:12:42 - Database connection successful (scheduling.php)
+2025-04-18 12:12:42 - User ID (scheduling.php): 2
+2025-04-18 12:12:42 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (scheduling.php)
+2025-04-18 12:12:44 - Database connection successful (assignment.php)
+2025-04-18 12:12:44 - User ID (assignment.php): 2
+2025-04-18 12:12:45 - Database connection successful (practice.php)
+2025-04-18 12:12:45 - User ID (practice.php): 2
+2025-04-18 12:12:45 - Fetched students for user_id 2: [{"id":"2","student_name":"sonali"}] (practice.php)
+2025-04-18 12:13:07 - Database connection successful (recital.php)
+2025-04-18 12:13:07 - User ID (recital.php): 2
+2025-04-18 12:14:49 - Database connection successful (enrollment.php)
+2025-04-18 12:14:49 - User ID (enrollment.php): 3
+2025-04-18 12:15:10 - Database connection successful (enrollment.php)
+2025-04-18 12:15:10 - User ID (enrollment.php): 3
+2025-04-18 12:15:10 - Form submitted (enrollment.php): {"studentName":"Priyanshu991","email":"priyanshu4387@gmail.com","instrument":"Piano","guardianContact":"9919567789","enroll":""}
+2025-04-18 12:15:10 - Enrollment inserted successfully for user_id: 3 (enrollment.php)
+2025-04-18 12:15:15 - Database connection successful (enrollment.php)
+2025-04-18 12:15:15 - User ID (enrollment.php): 3
+2025-04-18 12:15:18 - Database connection successful (scheduling.php)
+2025-04-18 12:15:18 - User ID (scheduling.php): 3
+2025-04-18 12:15:18 - Fetched students for user_id 3: [{"id":"3","student_name":"Priyanshu991"}] (scheduling.php)
+2025-04-18 12:16:05 - Database connection successful (scheduling.php)
+2025-04-18 12:16:05 - User ID (scheduling.php): 3
+2025-04-18 12:16:05 - Fetched students for user_id 3: [{"id":"3","student_name":"Priyanshu991"}] (scheduling.php)
+2025-04-18 12:16:05 - Form submitted (scheduling.php): {"date":"2025-04-18","time":"09:01","student_id":"3","schedule":""}
+2025-04-18 12:16:05 - Lesson schedule inserted successfully for user_id: 3, student_id: 3 (scheduling.php)
+2025-04-18 12:16:07 - Database connection successful (scheduling.php)
+2025-04-18 12:16:07 - User ID (scheduling.php): 3
+2025-04-18 12:16:07 - Fetched students for user_id 3: [{"id":"3","student_name":"Priyanshu991"}] (scheduling.php)
+2025-04-18 12:16:11 - Database connection successful (assignment.php)
+2025-04-18 12:16:11 - User ID (assignment.php): 3
+2025-04-18 12:16:18 - Database connection successful (practice.php)
+2025-04-18 12:16:18 - User ID (practice.php): 3
+2025-04-18 12:16:18 - Fetched students for user_id 3: [{"id":"3","student_name":"Priyanshu991"}] (practice.php)
+2025-04-18 12:16:22 - Database connection successful (practice.php)
+2025-04-18 12:16:22 - User ID (practice.php): 3
+2025-04-18 12:16:22 - Fetched students for user_id 3: [{"id":"3","student_name":"Priyanshu991"}] (practice.php)
+2025-04-18 12:16:22 - Form submitted (practice.php): {"student_id":"3","hours":"3","track":""}
+2025-04-18 12:16:22 - Practice log inserted successfully for user_id: 3, student_id: 3 (practice.php)
+2025-04-18 12:16:26 - Database connection successful (recital.php)
+2025-04-18 12:16:26 - User ID (recital.php): 3
+2025-04-18 12:16:44 - Database connection successful (recital.php)
+2025-04-18 12:16:44 - User ID (recital.php): 3
+2025-04-18 12:16:44 - Form submitted (recital.php): {"eventName":"One India","date":"2025-02-07","plan":""}
+2025-04-18 12:16:44 - Recital inserted successfully for user_id: 3 (recital.php)
+2025-04-18 12:16:48 - Database connection successful (recital.php)
+2025-04-18 12:16:48 - User ID (recital.php): 3
+2025-04-18 12:16:55 - Database connection successful (collaboration.php)
+2025-04-18 12:16:55 - User ID (collaboration.php): 3
+2025-04-18 12:16:55 - Fetched recent messages for user_id 3: [] (collaboration.php)
+2025-04-18 12:17:22 - Database connection successful (collaboration.php)
+2025-04-18 12:17:22 - User ID (collaboration.php): 3
+2025-04-18 12:17:22 - Collaboration message inserted successfully for user_id: 3 (collaboration.php)
+2025-04-18 12:17:22 - Fetched recent messages for user_id 3: [{"recipient_type":"teacher","recipient_name":"Priyanshu991","message_text":"Hello","created_at":"2025-04-18 15:47:22"}] (collaboration.php)
+2025-04-18 12:17:30 - Database connection successful (dashboard.php)
+2025-04-18 12:17:30 - User ID (dashboard.php): 3
+2025-04-18 12:17:30 - Fetched total students for user_id 3: 1 (dashboard.php)
+2025-04-18 12:17:30 - Fetched upcoming lessons for user_id 3: [{"student_name":"Priyanshu991","lesson_date":"2025-04-18","lesson_time":"09:01:00"}] (dashboard.php)
+2025-04-18 12:17:30 - Fetched recent practice logs for user_id 3: [{"student_name":"Priyanshu991","practice_hours":"3","created_at":"2025-04-18 15:46:22"}] (dashboard.php)
+2025-04-18 12:17:30 - Fetched planned recitals for user_id 3: [] (dashboard.php)
+2025-04-18 12:17:30 - Fetched teacher assignments for user_id 3: [] (dashboard.php)
+2025-04-18 12:17:30 - Fetched instrument data for user_id 3: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 12:17:30 - Fetched practice data for user_id 3: [{"practice_date":"2025-04-18","total_hours":"3"}] (dashboard.php)
+2025-04-18 12:17:41 - Database connection successful (dashboard.php)
+2025-04-18 12:17:41 - User ID (dashboard.php): 3
+2025-04-18 12:17:41 - Feedback inserted successfully for user_id: 3 (dashboard.php)
+2025-04-18 12:17:41 - Fetched total students for user_id 3: 1 (dashboard.php)
+2025-04-18 12:17:41 - Fetched upcoming lessons for user_id 3: [{"student_name":"Priyanshu991","lesson_date":"2025-04-18","lesson_time":"09:01:00"}] (dashboard.php)
+2025-04-18 12:17:41 - Fetched recent practice logs for user_id 3: [{"student_name":"Priyanshu991","practice_hours":"3","created_at":"2025-04-18 15:46:22"}] (dashboard.php)
+2025-04-18 12:17:41 - Fetched planned recitals for user_id 3: [] (dashboard.php)
+2025-04-18 12:17:41 - Fetched teacher assignments for user_id 3: [] (dashboard.php)
+2025-04-18 12:17:41 - Fetched instrument data for user_id 3: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 12:17:41 - Fetched practice data for user_id 3: [{"practice_date":"2025-04-18","total_hours":"3"}] (dashboard.php)
+2025-04-18 12:32:24 - Database connection successful (dashboard.php)
+2025-04-18 12:32:24 - User ID (dashboard.php): 3
+2025-04-18 12:32:24 - Fetched total students for user_id 3: 1 (dashboard.php)
+2025-04-18 12:32:24 - Fetched upcoming lessons for user_id 3: [{"student_name":"Priyanshu991","lesson_date":"2025-04-18","lesson_time":"09:01:00"}] (dashboard.php)
+2025-04-18 12:32:24 - Fetched recent practice logs for user_id 3: [{"student_name":"Priyanshu991","practice_hours":"3","created_at":"2025-04-18 15:46:22"}] (dashboard.php)
+2025-04-18 12:32:24 - Fetched planned recitals for user_id 3: [] (dashboard.php)
+2025-04-18 12:32:24 - Fetched teacher assignments for user_id 3: [] (dashboard.php)
+2025-04-18 12:32:24 - Fetched instrument data for user_id 3: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 12:32:24 - Fetched practice data for user_id 3: [{"practice_date":"2025-04-18","total_hours":"3"}] (dashboard.php)
+2025-04-18 12:40:05 - Database connection successful (enrollment.php)
+2025-04-18 12:40:05 - User ID (enrollment.php): 3
+2025-04-18 12:40:07 - Database connection successful (scheduling.php)
+2025-04-18 12:40:07 - User ID (scheduling.php): 3
+2025-04-18 12:40:07 - Fetched students for user_id 3: [{"id":"3","student_name":"Priyanshu991"}] (scheduling.php)
+2025-04-18 12:40:08 - Database connection successful (assignment.php)
+2025-04-18 12:40:08 - User ID (assignment.php): 3
+2025-04-18 12:40:09 - Database connection successful (practice.php)
+2025-04-18 12:40:09 - User ID (practice.php): 3
+2025-04-18 12:40:09 - Fetched students for user_id 3: [{"id":"3","student_name":"Priyanshu991"}] (practice.php)
+2025-04-18 12:40:10 - Database connection successful (recital.php)
+2025-04-18 12:40:10 - User ID (recital.php): 3
+2025-04-18 12:40:16 - Database connection successful (dashboard.php)
+2025-04-18 12:40:16 - User ID (dashboard.php): 3
+2025-04-18 12:40:16 - Fetched total students for user_id 3: 1 (dashboard.php)
+2025-04-18 12:40:16 - Fetched upcoming lessons for user_id 3: [{"student_name":"Priyanshu991","lesson_date":"2025-04-18","lesson_time":"09:01:00"}] (dashboard.php)
+2025-04-18 12:40:16 - Fetched recent practice logs for user_id 3: [{"student_name":"Priyanshu991","practice_hours":"3","created_at":"2025-04-18 15:46:22"}] (dashboard.php)
+2025-04-18 12:40:16 - Fetched planned recitals for user_id 3: [] (dashboard.php)
+2025-04-18 12:40:16 - Fetched teacher assignments for user_id 3: [] (dashboard.php)
+2025-04-18 12:40:16 - Fetched instrument data for user_id 3: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 12:40:16 - Fetched practice data for user_id 3: [{"practice_date":"2025-04-18","total_hours":"3"}] (dashboard.php)
+2025-04-18 13:26:44 - Database connection successful (enrollment.php)
+2025-04-18 13:26:44 - User ID (enrollment.php): 3
+2025-04-18 13:26:48 - Database connection successful (scheduling.php)
+2025-04-18 13:26:48 - User ID (scheduling.php): 3
+2025-04-18 13:26:48 - Fetched students for user_id 3: [{"id":"3","student_name":"Priyanshu991"}] (scheduling.php)
+2025-04-18 13:26:51 - Database connection successful (enrollment.php)
+2025-04-18 13:26:51 - User ID (enrollment.php): 3
+2025-04-18 13:27:22 - Database connection successful (enrollment.php)
+2025-04-18 13:27:22 - User ID (enrollment.php): 3
+2025-04-18 13:27:22 - Form submitted (enrollment.php): {"studentName":"Priyanshu991","email":"priyanshu4387@gmail.com","instrument":"Piano","guardianContact":"9919567789","enroll":""}
+2025-04-18 13:27:22 - Validation failed: User ID 3 already has a student enrolled (enrollment.php)
+2025-04-18 14:22:20 - Database connection successful (enrollment.php)
+2025-04-18 14:22:20 - User ID (enrollment.php): 3
+2025-04-18 14:26:24 - Database connection successful (enrollment.php)
+2025-04-18 14:26:24 - User ID (enrollment.php): 3
+2025-04-18 14:26:24 - Form submitted (enrollment.php): {"studentName":"Priyanshu991","email":"priyanshu4387@gmail.com","instrument":"Piano","guardianContact":"9919567789","enroll":""}
+2025-04-18 14:26:24 - Validation failed: User ID 3 already has a student enrolled (enrollment.php)
+2025-04-18 14:27:10 - Database connection successful (enrollment.php)
+2025-04-18 14:27:10 - User ID (enrollment.php): 3
+2025-04-18 14:37:16 - Database connection successful (enrollment.php)
+2025-04-18 14:37:16 - User ID (enrollment.php): 3
+2025-04-18 16:46:59 - Database connection successful (enrollment.php)
+2025-04-18 16:46:59 - User ID (enrollment.php): 1
+2025-04-18 16:47:01 - Database connection successful (enrollment.php)
+2025-04-18 16:47:01 - User ID (enrollment.php): 1
+2025-04-18 16:47:22 - Database connection successful (enrollment.php)
+2025-04-18 16:47:22 - User ID (enrollment.php): 1
+2025-04-18 16:47:22 - Form submitted (enrollment.php): {"studentName":"aadi","email":"a@gmail.com","instrument":"Violin","guardianContact":"5214688574","enroll":""}
+2025-04-18 16:47:22 - Enrollment inserted successfully for user_id: 1 (enrollment.php)
+2025-04-18 16:47:26 - Database connection successful (scheduling.php)
+2025-04-18 16:47:26 - User ID (scheduling.php): 1
+2025-04-18 16:47:26 - Fetched students for user_id 1: [{"id":"1","student_name":"aadi"}] (scheduling.php)
+2025-04-18 16:47:38 - Database connection successful (scheduling.php)
+2025-04-18 16:47:38 - User ID (scheduling.php): 1
+2025-04-18 16:47:38 - Fetched students for user_id 1: [{"id":"1","student_name":"aadi"}] (scheduling.php)
+2025-04-18 16:47:38 - Form submitted (scheduling.php): {"date":"2025-04-19","time":"23:20","student_id":"1","schedule":""}
+2025-04-18 16:47:38 - Lesson schedule inserted successfully for user_id: 1, student_id: 1 (scheduling.php)
+2025-04-18 16:47:41 - Database connection successful (assignment.php)
+2025-04-18 16:47:41 - User ID (assignment.php): 1
+2025-04-18 16:47:56 - Database connection successful (assignment.php)
+2025-04-18 16:47:56 - User ID (assignment.php): 1
+2025-04-18 16:47:56 - Form submitted (assignment.php): {"teacher":"Jane Smith","class":"violin","assign":""}
+2025-04-18 16:47:56 - Assignment inserted successfully for user_id: 1 (assignment.php)
+2025-04-18 16:48:02 - Database connection successful (practice.php)
+2025-04-18 16:48:02 - User ID (practice.php): 1
+2025-04-18 16:48:02 - Fetched students for user_id 1: [{"id":"1","student_name":"aadi"}] (practice.php)
+2025-04-18 16:48:13 - Database connection successful (practice.php)
+2025-04-18 16:48:13 - User ID (practice.php): 1
+2025-04-18 16:48:13 - Fetched students for user_id 1: [{"id":"1","student_name":"aadi"}] (practice.php)
+2025-04-18 16:48:13 - Form submitted (practice.php): {"student_id":"1","hours":"4","track":""}
+2025-04-18 16:48:13 - Practice log inserted successfully for user_id: 1, student_id: 1 (practice.php)
+2025-04-18 16:48:16 - Database connection successful (recital.php)
+2025-04-18 16:48:16 - User ID (recital.php): 1
+2025-04-18 16:48:28 - Database connection successful (recital.php)
+2025-04-18 16:48:28 - User ID (recital.php): 1
+2025-04-18 16:48:28 - Form submitted (recital.php): {"eventName":"mudd","date":"2025-04-19","plan":""}
+2025-04-18 16:48:28 - Recital inserted successfully for user_id: 1 (recital.php)
+2025-04-18 16:48:44 - Database connection successful (dashboard.php)
+2025-04-18 16:48:44 - User ID (dashboard.php): 1
+2025-04-18 16:48:44 - Fetched total students for user_id 1: 1 (dashboard.php)
+2025-04-18 16:48:44 - Fetched upcoming lessons for user_id 1: [{"student_name":"aadi","lesson_date":"2025-04-19","lesson_time":"23:20:00"}] (dashboard.php)
+2025-04-18 16:48:44 - Fetched recent practice logs for user_id 1: [{"student_name":"aadi","practice_hours":"4.0","created_at":"2025-04-18 20:18:13"}] (dashboard.php)
+2025-04-18 16:48:44 - Fetched planned recitals for user_id 1: [{"event_name":"mudd","recital_date":"2025-04-19"}] (dashboard.php)
+2025-04-18 16:48:44 - Fetched teacher assignments for user_id 1: [{"teacher_name":"Jane Smith","class_name":"violin"}] (dashboard.php)
+2025-04-18 16:48:44 - Fetched instrument data for user_id 1: [{"instrument":"Violin","count":"1"}] (dashboard.php)
+2025-04-18 16:48:44 - Fetched practice data for user_id 1: [{"practice_date":"2025-04-18","total_hours":"4.0"}] (dashboard.php)
+2025-04-18 17:02:26 - Database connection successful (enrollment.php)
+2025-04-18 17:02:26 - User ID (enrollment.php): 2
+2025-04-18 17:03:01 - Database connection successful (enrollment.php)
+2025-04-18 17:03:02 - User ID (enrollment.php): 2
+2025-04-18 17:03:02 - Form submitted (enrollment.php): {"studentName":"Adi","email":"adi@gmail.com","instrument":"Piano","guardianContact":"1234567890","enroll":""}
+2025-04-18 17:03:02 - Enrollment inserted successfully for user_id: 2 (enrollment.php)
+2025-04-18 17:03:07 - Database connection successful (scheduling.php)
+2025-04-18 17:03:07 - User ID (scheduling.php): 2
+2025-04-18 17:03:07 - Fetched students for user_id 2: [{"id":"2","student_name":"Adi"}] (scheduling.php)
+2025-04-18 17:03:41 - Database connection successful (scheduling.php)
+2025-04-18 17:03:41 - User ID (scheduling.php): 2
+2025-04-18 17:03:41 - Fetched students for user_id 2: [{"id":"2","student_name":"Adi"}] (scheduling.php)
+2025-04-18 17:03:41 - Form submitted (scheduling.php): {"date":"2025-04-19","time":"13:35","student_id":"2","schedule":""}
+2025-04-18 17:03:41 - Lesson schedule inserted successfully for user_id: 2, student_id: 2 (scheduling.php)
+2025-04-18 17:03:46 - Database connection successful (assignment.php)
+2025-04-18 17:03:46 - User ID (assignment.php): 2
+2025-04-18 17:04:17 - Database connection successful (assignment.php)
+2025-04-18 17:04:17 - User ID (assignment.php): 2
+2025-04-18 17:04:17 - Form submitted (assignment.php): {"teacher":"Mike Johnson","class":"Piano","assign":""}
+2025-04-18 17:04:17 - Assignment inserted successfully for user_id: 2 (assignment.php)
+2025-04-18 17:04:21 - Database connection successful (practice.php)
+2025-04-18 17:04:21 - User ID (practice.php): 2
+2025-04-18 17:04:21 - Fetched students for user_id 2: [{"id":"2","student_name":"Adi"}] (practice.php)
+2025-04-18 17:04:43 - Database connection successful (practice.php)
+2025-04-18 17:04:43 - User ID (practice.php): 2
+2025-04-18 17:04:43 - Fetched students for user_id 2: [{"id":"2","student_name":"Adi"}] (practice.php)
+2025-04-18 17:04:43 - Form submitted (practice.php): {"student_id":"2","hours":"1","track":""}
+2025-04-18 17:04:43 - Practice log inserted successfully for user_id: 2, student_id: 2 (practice.php)
+2025-04-18 17:04:46 - Database connection successful (recital.php)
+2025-04-18 17:04:46 - User ID (recital.php): 2
+2025-04-18 17:05:09 - Database connection successful (recital.php)
+2025-04-18 17:05:09 - User ID (recital.php): 2
+2025-04-18 17:05:09 - Form submitted (recital.php): {"eventName":"sigma song","date":"2025-04-30","plan":""}
+2025-04-18 17:05:09 - Recital inserted successfully for user_id: 2 (recital.php)
+2025-04-18 17:05:26 - Database connection successful (dashboard.php)
+2025-04-18 17:05:26 - User ID (dashboard.php): 2
+2025-04-18 17:05:26 - Fetched total students for user_id 2: 1 (dashboard.php)
+2025-04-18 17:05:26 - Fetched upcoming lessons for user_id 2: [{"student_name":"Adi","lesson_date":"2025-04-19","lesson_time":"13:35:00"}] (dashboard.php)
+2025-04-18 17:05:26 - Fetched recent practice logs for user_id 2: [{"student_name":"Adi","practice_hours":"1.0","created_at":"2025-04-18 20:34:43"}] (dashboard.php)
+2025-04-18 17:05:26 - Fetched planned recitals for user_id 2: [{"event_name":"sigma song","recital_date":"2025-04-30"}] (dashboard.php)
+2025-04-18 17:05:26 - Fetched teacher assignments for user_id 2: [{"teacher_name":"Mike Johnson","class_name":"Piano"}] (dashboard.php)
+2025-04-18 17:05:26 - Fetched instrument data for user_id 2: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 17:05:26 - Fetched practice data for user_id 2: [{"practice_date":"2025-04-18","total_hours":"1.0"}] (dashboard.php)
+2025-04-18 17:24:42 - Database connection successful (enrollment.php)
+2025-04-18 17:24:42 - User ID (enrollment.php): 3
+2025-04-18 17:25:08 - Database connection successful (enrollment.php)
+2025-04-18 17:25:08 - User ID (enrollment.php): 3
+2025-04-18 17:25:08 - Form submitted (enrollment.php): {"studentName":"xyz","email":"xyz@gmail.com","instrument":"Piano","guardianContact":"1234567890","enroll":""}
+2025-04-18 17:25:08 - Enrollment inserted successfully for user_id: 3 (enrollment.php)
+2025-04-18 17:25:15 - Database connection successful (scheduling.php)
+2025-04-18 17:25:15 - User ID (scheduling.php): 3
+2025-04-18 17:25:15 - Fetched students for user_id 3: [{"id":"3","student_name":"xyz"}] (scheduling.php)
+2025-04-18 17:25:37 - Database connection successful (scheduling.php)
+2025-04-18 17:25:37 - User ID (scheduling.php): 3
+2025-04-18 17:25:37 - Fetched students for user_id 3: [{"id":"3","student_name":"xyz"}] (scheduling.php)
+2025-04-18 17:25:37 - Form submitted (scheduling.php): {"date":"2025-04-19","time":"14:00","student_id":"3","schedule":""}
+2025-04-18 17:25:37 - Lesson schedule inserted successfully for user_id: 3, student_id: 3 (scheduling.php)
+2025-04-18 17:25:42 - Database connection successful (assignment.php)
+2025-04-18 17:25:42 - User ID (assignment.php): 3
+2025-04-18 17:25:57 - Database connection successful (assignment.php)
+2025-04-18 17:25:57 - User ID (assignment.php): 3
+2025-04-18 17:25:57 - Form submitted (assignment.php): {"teacher":"Jane Smith","class":"piano","assign":""}
+2025-04-18 17:25:57 - Assignment inserted successfully for user_id: 3 (assignment.php)
+2025-04-18 17:27:09 - Database connection successful (practice.php)
+2025-04-18 17:27:09 - User ID (practice.php): 3
+2025-04-18 17:27:09 - Fetched students for user_id 3: [{"id":"3","student_name":"xyz"}] (practice.php)
+2025-04-18 17:27:19 - Database connection successful (practice.php)
+2025-04-18 17:27:19 - User ID (practice.php): 3
+2025-04-18 17:27:19 - Fetched students for user_id 3: [{"id":"3","student_name":"xyz"}] (practice.php)
+2025-04-18 17:27:19 - Form submitted (practice.php): {"student_id":"3","hours":"1","track":""}
+2025-04-18 17:27:19 - Practice log inserted successfully for user_id: 3, student_id: 3 (practice.php)
+2025-04-18 17:27:24 - Database connection successful (recital.php)
+2025-04-18 17:27:24 - User ID (recital.php): 3
+2025-04-18 17:27:55 - Database connection successful (practice.php)
+2025-04-18 17:27:55 - User ID (practice.php): 3
+2025-04-18 17:27:55 - Fetched students for user_id 3: [{"id":"3","student_name":"xyz"}] (practice.php)
+2025-04-18 17:28:03 - Database connection successful (practice.php)
+2025-04-18 17:28:03 - User ID (practice.php): 3
+2025-04-18 17:28:03 - Fetched students for user_id 3: [{"id":"3","student_name":"xyz"}] (practice.php)
+2025-04-18 17:28:03 - Form submitted (practice.php): {"student_id":"3","hours":"1","track":""}
+2025-04-18 17:28:03 - Practice log inserted successfully for user_id: 3, student_id: 3 (practice.php)
+2025-04-18 17:28:32 - Database connection successful (recital.php)
+2025-04-18 17:28:32 - User ID (recital.php): 3
+2025-04-18 17:28:52 - Database connection successful (recital.php)
+2025-04-18 17:28:52 - User ID (recital.php): 3
+2025-04-18 17:28:52 - Form submitted (recital.php): {"eventName":"music fusion","date":"2025-04-20","plan":""}
+2025-04-18 17:28:52 - Recital inserted successfully for user_id: 3 (recital.php)
+2025-04-18 17:29:10 - Database connection successful (dashboard.php)
+2025-04-18 17:29:10 - User ID (dashboard.php): 3
+2025-04-18 17:29:10 - Fetched total students for user_id 3: 1 (dashboard.php)
+2025-04-18 17:29:10 - Fetched upcoming lessons for user_id 3: [{"student_name":"xyz","lesson_date":"2025-04-19","lesson_time":"14:00:00"}] (dashboard.php)
+2025-04-18 17:29:10 - Fetched recent practice logs for user_id 3: [{"student_name":"xyz","practice_hours":"1.0","created_at":"2025-04-18 20:58:03"},{"student_name":"xyz","practice_hours":"1.0","created_at":"2025-04-18 20:57:19"}] (dashboard.php)
+2025-04-18 17:29:10 - Fetched planned recitals for user_id 3: [{"event_name":"music fusion","recital_date":"2025-04-20"}] (dashboard.php)
+2025-04-18 17:29:10 - Fetched teacher assignments for user_id 3: [{"teacher_name":"Jane Smith","class_name":"piano"}] (dashboard.php)
+2025-04-18 17:29:10 - Fetched instrument data for user_id 3: [{"instrument":"Piano","count":"1"}] (dashboard.php)
+2025-04-18 17:29:10 - Fetched practice data for user_id 3: [{"practice_date":"2025-04-18","total_hours":"2.0"}] (dashboard.php)
